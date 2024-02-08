@@ -6,6 +6,7 @@ def install_requirements():
         "PyQt5",
         "requests",
         "beautifulsoup4",
+        "pywin32",
     ]
 
     for requirement in requirements:
