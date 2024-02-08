@@ -14,6 +14,12 @@ Bu PyQt5 uygulaması, kullanıcıların istedikleri kelimelerin İngilizce anlam
 
 3. **Kaydedilen Kelimeleri Görüntüleme:** Eklenen ve kaydedilen kelimeleri görmek için uygulama yeniden başlatıldığında kaydedilen kelimeler otomatik olarak görüntülenir.
 
+
+
+## Kurulum
+* Python 3.x yüklü olduğundan emin olun. Yüklü değilse  [python.org](https://www.python.org/downloads/) adresinden indirebilirsiniz.
+* Gerekli kütüphaneleri yüklemek için `Requirements Installer.py` dosyasını çalıştırın. Yükleme başarılı olduğu takdirde `Requirements Installer.py` dosyası kendini silecektir.
+
 ## Gereksinimler
 
 - Python 3.x 
@@ -21,12 +27,6 @@ Bu PyQt5 uygulaması, kullanıcıların istedikleri kelimelerin İngilizce anlam
 - requests
 - BeautifulSoup
 - pywin32
-
-## Kurulum
-* Python 3.x yüklü olduğundan emin olun. Yüklü değilse  [python.org](https://www.python.org/downloads/) adresinden indirebilirsiniz.
-* Gerekli kütüphaneleri yüklemek için `Requirements Installer.py` dosyasını çalıştırın. Yükleme başarılı olduğu takdirde `Requirements Installer.py` dosyası kendini silecektir.
-
-
 
 
 
