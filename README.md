@@ -4,6 +4,7 @@
 
 Bu PyQt5 uygulaması, kullanıcıların istedikleri kelimelerin İngilizce anlamlarını Tureng sitesinden arayarak kaydetmelerine olanak tanır. Kullanıcılar, daha sonra istedikleri zaman kaydedilen kelimeleri görüntüleyebilir ve kelimenin yanındaki butona basarak anlamlarını görüntüleyebilirler.
 
+**Bu bir resmi veya onaylı araç değildir, kişisel kullanım için tasarlanmıştır.**
 
 ## Kullanım
 
@@ -27,4 +28,4 @@ Bu PyQt5 uygulaması, kullanıcıların istedikleri kelimelerin İngilizce anlam
 
 
 
-**Bu bir resmi veya onaylı araç değildir, geliştiricisi tarafından kişisel kullanım için tasarlanmıştır.**
+
