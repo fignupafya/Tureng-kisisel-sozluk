@@ -20,9 +20,7 @@ Bu PyQt5 uygulaması, kullanıcıların istedikleri kelimelerin İngilizce anlam
 * Python 3.x yüklü olduğundan emin olun. Yüklü değilse  [python.org](https://www.python.org/downloads/) adresinden indirebilirsiniz.
 * Gerekli kütüphaneleri yüklemek için `Requirements Installer.py` dosyasını çalıştırın. Yükleme başarılı olduğu takdirde `Requirements Installer.py` dosyası kendini silecektir.
 
-## Gereksinimler
-
-- Python 3.x 
+*Kurulum sırasında şunlar indirilecektirecektir:*
 - PyQt5
 - requests
 - BeautifulSoup
