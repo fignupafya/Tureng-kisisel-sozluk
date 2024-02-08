@@ -1,4 +1,4 @@
-# Tureng Kelime Arama Uygulaması
+# Tureng Kişisel Sözlük Uygulaması
 
 ## Açıklama
 
