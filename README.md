@@ -20,6 +20,7 @@ Bu PyQt5 uygulaması, kullanıcıların istedikleri kelimelerin İngilizce anlam
 - PyQt5
 - requests
 - BeautifulSoup
+- pywin32
 
 ## Kurulum
 * Python 3.x yüklü olduğundan emin olun. Yüklü değilse  [python.org](https://www.python.org/downloads/) adresinden indirebilirsiniz.
